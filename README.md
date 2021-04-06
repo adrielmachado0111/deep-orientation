@@ -11,7 +11,7 @@
 
 Librerias necesarias para que el script inference.py funcione:
 
-- python 3.6.x
+- python 3.6.*
 - opencv-python==3.4.3.*
 - tensorflow==1.12.3
 - tqdm
