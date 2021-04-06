@@ -9,7 +9,7 @@
 
 ## requerimientos
 
-Librerias necesarias para que el script inference.py funcione:
+Librerias necesarias para el funcionamiento del script inference.py:
 
 - python 3.6.*
 - opencv-python==3.4.3.*
