@@ -1,4 +1,4 @@
-# Deep Orientation
+# Deep Orientation GUI
 ## Estimación de orientación
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
@@ -9,7 +9,7 @@
 
 ## requerimientos
 
-Librerias necesarias para el funcionamiento del script inference.py:
+Librerías necesarias para el funcionamiento del script inference.py:
 
 - python 3.6.*
 - opencv-python==3.4.3.*
