@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 """
+by: adriel machado
 .. codeauthor:: Daniel Seichter <daniel.seichter@tu-ilmenau.de>
 
 """
